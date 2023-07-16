@@ -72,6 +72,10 @@ thead td {
   margin: 0px auto;
 }
 
+.note {
+  text-align: center;
+}
+
 .container {
   width: 100%;
   height: 200%;
